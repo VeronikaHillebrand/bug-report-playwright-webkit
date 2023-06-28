@@ -1,0 +1,8 @@
+{
+  "startpage": {
+    "search_input": {
+      "empty_text_no_search_term": "Bitte geben Sie einen Suchbegriff ein.",
+      "empty_text": "Keine Treffer. Bitte passen Sie den Suchbegriff an."
+    }
+  }
+}
